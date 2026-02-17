@@ -67,7 +67,7 @@
 <td width="50%" align="center">
 <h3>📚 Frameworks & Technologies</h3>
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,MERN Stack" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,bootstrap" />
 
 </td>
 </tr>
@@ -102,15 +102,14 @@
 
 ---
 
-## 🚀 Current Learning
+<h2 align="center">🌱 Currently Learning</h2>
 
-- Data Structures & Algorithms (Python)
-- Backend Development (Flask / Node.js)
-- Retrieval Augmented Generation (RAG)
-- Cloud Deployment
-
----
-
+<p align="center">
+• Data Structures & Algorithms (Python) <br>
+• Backend Development (Flask & Node.js) <br>
+• Retrieval Augmented Generation (LangChain) <br>
+• Cloud Deployment
+</p>
 ## ❤️ Support
 <p align="center">
   <a href="buymeacoffee.com/vivekvvivex">
