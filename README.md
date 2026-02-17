@@ -42,7 +42,6 @@
   <a href="https://www.linkedin.com/in/vivekv1008/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-</p>
   <a href="https://vivek7892.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
