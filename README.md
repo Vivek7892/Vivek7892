@@ -69,8 +69,10 @@
   <a href="https://github.com/Vivek7892">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/vivekv1008/">
+  <a href="mailto:vivekv1008@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+ <a href="https://www.linkedin.com/in/vivekv1008/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
