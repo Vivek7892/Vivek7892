@@ -102,8 +102,9 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=https://github.com/Vivek7892&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=vivek7892&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
