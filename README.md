@@ -109,7 +109,7 @@
 • Retrieval Augmented Generation (LangChain) <br>
 • Cloud Deployment
 </p>
-## ❤️ Support
+<h2 align="center">❤️Support</h2>
 <p align="center">
   <a href="buymeacoffee.com/vivekvvivex">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
