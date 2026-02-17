@@ -118,8 +118,8 @@
 </p>
 <h2 align="center">❤️Support</h2>
 <p align="center">
-  <a href="buymeacoffee.com/vivekvvivex">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://buymeacoffee.com/vivekvvivex">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"/>
   </a>
 </p>
 
