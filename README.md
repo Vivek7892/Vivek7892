@@ -35,21 +35,16 @@
   
 <p align="left">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/https://github.com/Vivek7892">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/vivekv1008/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://vivek7892.github.io/&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -64,7 +59,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,dart" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,dart,MongDB" />
 <br/><br/>
 
 </td>
@@ -72,7 +67,7 @@
 <td width="50%" align="center">
 <h3>📚 Frameworks & Technologies</h3>
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,bootstrap" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,MERN Stack" />
 
 </td>
 </tr>
