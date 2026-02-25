@@ -97,7 +97,7 @@
 
 <td width="50%" align="center">
 <h3>📚 Frameworks & Technologies</h3>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,bootstrap" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express" />
 </td>
 
 </tr>
